@@ -1,0 +1,3 @@
+/home/elendilen/workspace/cs/network/lab2/GBN/CMakeFiles/GBN.dir
+/home/elendilen/workspace/cs/network/lab2/GBN/CMakeFiles/edit_cache.dir
+/home/elendilen/workspace/cs/network/lab2/GBN/CMakeFiles/rebuild_cache.dir
