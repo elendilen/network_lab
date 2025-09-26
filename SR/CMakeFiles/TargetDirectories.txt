@@ -1,0 +1,3 @@
+/home/elendilen/workspace/cs/network/lab2/SR/CMakeFiles/SR.dir
+/home/elendilen/workspace/cs/network/lab2/SR/CMakeFiles/edit_cache.dir
+/home/elendilen/workspace/cs/network/lab2/SR/CMakeFiles/rebuild_cache.dir
